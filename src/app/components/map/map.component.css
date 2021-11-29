@@ -1,0 +1,6 @@
+.map-mapbox{
+  position: relative;
+  height: 80vh;
+  z-index: 0;
+  /* border: 2px solid black; */
+}
