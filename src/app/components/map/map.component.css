@@ -1,6 +1,21 @@
-.map-mapbox{
-  position: relative;
-  height: 80vh;
-  z-index: 0;
-  /* border: 2px solid black; */
+.map-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 30px;
+}
+
+.map-frame {
+  border: 2px solid black;
+  height: 100%;
+}
+
+#map {
+  height: 100%;
+}
+
+table {
+  display: none;
 }

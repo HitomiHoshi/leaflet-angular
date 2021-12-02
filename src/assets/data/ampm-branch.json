@@ -1,0 +1,579 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.611114084,
+          1.643081325
+        ]
+      },
+      "properties": {
+        "name": "AM PM PHARMACY",
+        "code": "HQ-APCS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.59419664,
+          1.665021904
+        ]
+      },
+      "properties": {
+        "name": "KULAI BRANCH",
+        "code": "J01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.620842352,
+          1.641561995
+        ]
+      },
+      "properties": {
+        "name": "INDAHPURA BRANCH",
+        "code": "J04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.629353394,
+          1.658817625
+        ]
+      },
+      "properties": {
+        "name": "IOI KULAI BRANCH",
+        "code": "J35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.659765845,
+          1.521747633
+        ]
+      },
+      "properties": {
+        "name": "TUTA BRANCH",
+        "code": "J05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.630722518,
+          1.542175279
+        ]
+      },
+      "properties": {
+        "name": "TMN UNIVERSITY 2 BRANCH",
+        "code": "J30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.650365877,
+          1.477707463
+        ]
+      },
+      "properties": {
+        "name": "BUKIT INDAH BRANCH",
+        "code": "J03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66598032800,
+          1.48018774300
+        ]
+      },
+      "properties": {
+        "name": "NUSA BESTARI BRANCH",
+        "code": "J28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67961148500,
+          1.49512816800
+        ]
+      },
+      "properties": {
+        "name": "TMN PERLING",
+        "code": "J10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.584434275,
+          1.45906847300
+        ]
+      },
+      "properties": {
+        "name": "GELANG PATAH BRANCH",
+        "code": "J09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76744836800,
+          1.49253266600
+        ]
+      },
+      "properties": {
+        "name": "TMN SENTOSA BRANCH",
+        "code": "J07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76670573600,
+          1.48427555900
+        ]
+      },
+      "properties": {
+        "name": "TMN SRI TEBRAU BRANCH",
+        "code": "J21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76009735400,
+          1.48558871100
+        ]
+      },
+      "properties": {
+        "name": "TMN CENTURY BRANCH",
+        "code": "J29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76394354900,
+          1.54451689000
+        ]
+      },
+      "properties": {
+        "name": "TMN DAYA BRANCH",
+        "code": "J02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.757160869,
+          1.57297840900
+        ]
+      },
+      "properties": {
+        "name": "SETIA INDAH BRANCH",
+        "code": "J32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77747437800,
+          1.56467195100
+        ]
+      },
+      "properties": {
+        "name": "TMN MOUNT AUSTIN BRANCH",
+        "code": "J08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80097027300,
+          1.56898560100
+        ]
+      },
+      "properties": {
+        "name": "TMN GAYA BRANCH",
+        "code": "J25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80255766900,
+          1.54248774900
+        ]
+      },
+      "properties": {
+        "name": "JOHOR JAYA BRANCH",
+        "code": "J06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81520614400,
+          1.49661886300
+        ]
+      },
+      "properties": {
+        "name": "PERMAS JAYA BRANCH",
+        "code": "J01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87470067200,
+          1.49338241900
+        ]
+      },
+      "properties": {
+        "name": "SERI ALAM BRANCH",
+        "code": "J34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.806038429,
+          1.59043658500
+        ]
+      },
+      "properties": {
+        "name": "PUTERI WANGSA BRANCH",
+        "code": "J33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.20555472600,
+          1.57501681800
+        ]
+      },
+      "properties": {
+        "name": "DESARU BRANCH",
+        "code": "J24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.18016929600,
+          1.91738285500
+        ]
+      },
+      "properties": {
+        "name": "AYER HITAM BRANCH",
+        "code": "J17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.30061483600,
+          2.01810488900
+        ]
+      },
+      "properties": {
+        "name": "TMN INTAN KLUANG BRANCH",
+        "code": "J18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33208795600,
+          2.03711449200
+        ]
+      },
+      "properties": {
+        "name": "KLUANG BARU BRANCH",
+        "code": "J20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.93785495000,
+          1.86681173700
+        ]
+      },
+      "properties": {
+        "name": "TMN BANANG BP BRANCH",
+        "code": "J12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.94046138800,
+          1.86559600600
+        ]
+      },
+      "properties": {
+        "name": "BUKIT PASIR BP BRANCH",
+        "code": "J13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.94858345400,
+          1.86646891300
+        ]
+      },
+      "properties": {
+        "name": "AEON BIG BP BRANCH",
+        "code": "J14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.95252084500,
+          1.84275064600
+        ]
+      },
+      "properties": {
+        "name": "BUKIT PERDANA BP BRANCH",
+        "code": "J31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.14435917900,
+          1.68093847600
+        ]
+      },
+      "properties": {
+        "name": "RENGIT BRANCH",
+        "code": "J16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.58301313900,
+          2.05050285600
+        ]
+      },
+      "properties": {
+        "name": "MUAR MEGA SQUARE BRANCH",
+        "code": "J22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.57753044300,
+          2.06789297000
+        ]
+      },
+      "properties": {
+        "name": "MUAR JLN SALLEH BRANCH",
+        "code": "J26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.59908488900,
+          2.06130874400
+        ]
+      },
+      "properties": {
+        "name": "MUAR SG ABONG BRANCH",
+        "code": "J23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.55264932600,
+          2.27129203100
+        ]
+      },
+      "properties": {
+        "name": "TANGKAK BRANCH",
+        "code": "J27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.31717329500,
+          5.42314744400
+        ]
+      },
+      "properties": {
+        "name": "JALAN PERAK PENANG BRANCH",
+        "code": "P02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.30990537700,
+          5.43229222700
+        ]
+      },
+      "properties": {
+        "name": "PULAU TIKUS PENANG BRANCH",
+        "code": "P01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.08779742800,
+          5.95795080800
+        ]
+      },
+      "properties": {
+        "name": "TMN FOH SANG KK BRANCH",
+        "code": "S01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63076844500,
+          1.54362815900
+        ]
+      },
+      "properties": {
+        "name": "TMN UNIVERSITY BRANCH",
+        "code": "J19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.88512449000,
+          1.97563924500
+        ]
+      },
+      "properties": {
+        "name": "PARIT SULONG BRANCH",
+        "code": "J15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.08147375300,
+          5.94385883700
+        ]
+      },
+      "properties": {
+        "name": "LIDO SQUARE KK BRANCH",
+        "code": "S02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61115544100,
+          1.64313189200
+        ]
+      },
+      "properties": {
+        "name": "AM PM E-STORE",
+        "code": "E01"
+      }
+    }
+  ]
+}
