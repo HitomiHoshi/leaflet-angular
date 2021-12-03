@@ -105,12 +105,33 @@ export class MapComponent implements AfterViewInit {
     });
 
 
-    L.Routing.control({
+    var control = L.Routing.control({
       waypoints: [L.latLng(1.643081325, 103.611114084), L.latLng(1.665021904, 103.59419664)],
       addWaypoints: false,
       routeWhileDragging: false,
       fitSelectedRoutes: false
     }).addTo(this.map);
+
+    // await new Promise(() => setTimeout(() =>{
+    //   console.log("test");
+    // }, 1000));
+
+    control.hide();
+    // this.map.removeControl(control);
+
+    control.on('routesfound', function(e) {
+      var routes = e.routes;
+      var summary = routes[0].summary;
+
+      var distance = summary.totalDistance / 1000;
+
+      var time = summary.totalTime / 60;
+      var minute  = Math.trunc( time );
+      var second = (time - minute) * 60;
+
+      // alert('Total distance is ' + summary.totalDistance / 1000 + ' km and total time is ' + Math.round(summary.totalTime % 3600 / 60) + ' minutes');
+      console.log('Total distance is ' + Math.round((distance + Number.EPSILON) * 100) / 100 + ' km and total time is ' + minute + ' minutes ' + Math.round(second) + ' seconds');
+    });
 
     // L.Routing.control({
     //   waypoints: [L.latLng(1.643081325, 103.611114084), L.latLng(1.665021904, 103.59419664)],
